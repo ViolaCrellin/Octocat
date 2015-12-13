@@ -1,1 +1,18 @@
-Explain what git clone does, in your own words
+Explain what git clone does, in your own words.
+
+It's playing god. Nah, I'm kidding. 
+
+Clone enables you to copy an entire repository, probably somebody elses' or a member of your teams' from a certain location. You now have a sort of mystical link to this person's file.
+
+The command is:
+git clone [location of what you're cloning]
+
+It actually does all these commands in one go:
+mkdir clone-file
+cd clone-file
+git init
+git remote add origin [location of what you're cloning]
+git pul
+cd ..
+
+Yeh, pretty nifty.
