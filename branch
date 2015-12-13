@@ -1,1 +1,9 @@
 Explain what a branch is, in your own words.
+
+It's a tree's arms. Nah, I'm kidding.
+
+It's where you create a parallel universe so that you can experiment with your code without impacting on your existing code. It's got all the same stuff in there, just you're going to distance it a bit from the code you know works and are happy with.
+
+It's like playing Civilization V and you're playing Elizabeth I. You're just about to go to war with Washington, but you're unsure if you'll win the war and if you don't there could be dire consequences. So you save the game just before you go to war. Halfway through the war you feel like it's going well, so you save the game but you give it a different name, because you're still not 100% you'll win and you might want to go back to the time before you decided to go to war with Washington in case you want to try a different victory path. You label the game in which you go to war as "Elizabeth-Warmonger" and your game saved before the war as "Elizabeth".
+
+You have effectively split your game into two - you could play one as a warmonger, the other you could choose to go for a diplomatic victory instead. You might create another branch and call this "Elizabeth-the-diplomat". 
