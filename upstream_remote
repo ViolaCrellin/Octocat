@@ -1,1 +1,14 @@
 Explain what the "upstream" remote is usually used for, in your own words.
+
+It's a really quiet place further up the river, where few people have access to and they have no internet and stuff like that.
+Nah, I'm kidding. 
+
+Upstream is basically where you aren't. If you're working on your computer and you need to update the repo that everyone has access to on Github you'll need to send it all back there at some point. In order to do this you need to make a sort of link between GitHub and your computer, the files you've been working on to be precise. So you set up a 'remote'.
+
+You can check what remotes are set up with:
+git remote -v
+
+You can add a remote by:
+git remote add origin [SSH link to the GitHub repo, or link to another/directory/on/your/comp or even somebody elses' computer]
+
+The word 'origin' is most often used as a remote. Don't know why.
